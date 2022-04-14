@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LendingLibrary", "LendingLibrary\LendingLibrary.csproj", "{6DBD61A1-9573-4174-9BAA-3B690DBAD2EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LendingLibrary", "LendingLibrary\LendingLibrary.csproj", "{6DBD61A1-9573-4174-9BAA-3B690DBAD2EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLendingLibrary", "TestLendingLibrary\TestLendingLibrary.csproj", "{28B1E519-7475-4D31-9DB9-AB8A98854E91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6DBD61A1-9573-4174-9BAA-3B690DBAD2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DBD61A1-9573-4174-9BAA-3B690DBAD2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DBD61A1-9573-4174-9BAA-3B690DBAD2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B1E519-7475-4D31-9DB9-AB8A98854E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B1E519-7475-4D31-9DB9-AB8A98854E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B1E519-7475-4D31-9DB9-AB8A98854E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B1E519-7475-4D31-9DB9-AB8A98854E91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
