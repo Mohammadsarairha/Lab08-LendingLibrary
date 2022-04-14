@@ -1,0 +1,16 @@
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\bin\Debug\net5.0\LendingLibrary.exe
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\bin\Debug\net5.0\LendingLibrary.deps.json
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\bin\Debug\net5.0\LendingLibrary.runtimeconfig.json
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\bin\Debug\net5.0\LendingLibrary.runtimeconfig.dev.json
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\bin\Debug\net5.0\LendingLibrary.dll
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\bin\Debug\net5.0\LendingLibrary.pdb
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\obj\Debug\net5.0\LendingLibrary.csproj.AssemblyReference.cache
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\obj\Debug\net5.0\LendingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\obj\Debug\net5.0\LendingLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\obj\Debug\net5.0\LendingLibrary.AssemblyInfo.cs
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\obj\Debug\net5.0\LendingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\obj\Debug\net5.0\LendingLibrary.dll
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\obj\Debug\net5.0\refint\LendingLibrary.dll
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\obj\Debug\net5.0\LendingLibrary.pdb
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\obj\Debug\net5.0\LendingLibrary.genruntimeconfig.cache
+C:\Users\HP\DotnetProject\LendingLibrary\LendingLibrary\obj\Debug\net5.0\ref\LendingLibrary.dll
