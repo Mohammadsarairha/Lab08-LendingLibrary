@@ -94,6 +94,7 @@ namespace LendingLibrary
                         var res = backpack.Unpack(index);
                         if (res != null)
                         {
+                            PhilesLibrary.Add(res.Title,res.FirstName,res.LastName,res.NumberOfPages);
                             Console.WriteLine();
                             Console.WriteLine("Thank you for return book");
                         }
